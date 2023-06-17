@@ -41,5 +41,7 @@ class TelefoneTest {
 		assertEquals(ddd, telefone.getDdd());
 		assertEquals(numero, telefone.getNumero());
 	}
+	
+	
 
 }
